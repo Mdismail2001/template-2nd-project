@@ -1,0 +1,433 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.body{
+    height: 400px;
+    width: 100%;
+    background-image: url(bg4.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.heading1{
+    text-align: center;
+    padding-top: 100px;
+    color: rgba(255, 255, 255, 0.887);
+
+}
+
+.body_paragraph1{
+    text-align: center;
+    padding: 20px 50px;
+    color: rgba(255, 255, 255, 0.887);
+
+}
+
+.button{
+    height: 40px;
+    width: 100px;
+    margin-left: 45%;
+    border-radius: 5px;
+    background-color: rgba(255, 98, 0, 0.848);
+    color: #eee;
+}
+
+
+.main{
+    max-width: 100%;
+    margin: 0px 50px;
+}
+.heading2{
+    text-align: center;
+    padding-top: 30px;
+    color: rgba(0, 0, 0, 0.848);
+}
+
+.paragraph2_2{
+    text-align:center;
+    padding: 20px 150px ;
+    color: rgba(0, 0, 0, 0.788);
+
+}
+
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin: 0% 10%;  
+    padding-top:30px;  
+}
+
+/* box 1 start */
+
+.box1{
+    height:60px ;
+    width: 70px;
+    background-color:#eee;
+    border-radius: 5px;   
+}
+
+.paragraph1{
+    text-align: center;
+    padding-top: 20px;
+    color: rgba(0, 0, 0, 0.864);
+}
+
+/* box 1 end */
+
+
+/* box 2 start */
+
+.box2{
+    height:60px ;
+    width: 70px;
+    background-color:rgba(235, 145, 145, 0.228);
+    border-radius: 5px;
+    border: 1px solid  rgba(255, 0, 0, 0.931) ;
+
+}
+
+.paragraph2{
+    text-align: center;
+    padding-top: 20px;
+    color: rgba(255, 0, 0, 0.931);
+}
+
+/* box 2 end */
+
+
+/* box 3 start */
+
+.box3{
+    height:60px ;
+    width: 70px;
+    background-color:#eee;
+    border-radius: 5px;   
+}
+
+.paragraph3{
+    text-align: center;
+    padding-top: 20px;
+    color: rgba(0, 0, 0, 0.864);
+
+}
+
+/* box 3 end */
+
+/* box 4 start */
+
+.box4{
+    height:60px ;
+    width: 70px;
+    background-color:#eee;
+    border-radius: 5px;   
+}
+
+.paragraph4{
+    text-align: center;
+    padding-top: 20px;
+    color: rgba(0, 0, 0, 0.864);
+
+}
+
+/* box 4 end */
+
+/* box 5 start */
+
+.box5{
+    height:60px ;
+    width: 70px;
+    background-color:#eee;
+    border-radius: 5px;   
+}
+
+.paragraph5{
+    text-align: center;
+    padding-top: 20px;
+    color: rgba(0, 0, 0, 0.864);
+
+}
+
+/* box 5 end */
+
+/* box 6 start */
+
+.box6{
+    height:60px ;
+    width: 70px;
+    background-color:#eee;
+    border-radius: 5px;   
+}
+
+.paragraph6{
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* box 6 end */
+
+
+.heading3{
+    text-align: center;
+    padding-top: 50px;
+    color: rgba(0, 0, 0, 0.848);
+
+}
+
+.paragraph7{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.678);
+    padding: 20px 150px;
+}
+
+
+.main_container{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* box 7 start */
+
+.box7{
+    height: 300px;
+    width: 30%;
+    background-color: #eee;
+}
+
+.icon1{
+    height: 50px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.paragraph8{
+padding: 10px 20px;
+text-align: left;
+color: rgba(0, 0, 0, 0.678);
+}
+
+.heading4{
+    padding:10px 20px ;
+}
+
+
+/* box  8start */
+
+.box8{
+    height: 300px;
+    width: 30%;
+    background-color:antiquewhite;
+}
+
+.icon2{
+    height: 50px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.paragraph9{
+padding: 10px 20px;
+text-align: left;
+color: rgba(0, 0, 0, 0.678);
+}
+
+.heading5{
+    padding:10px 20px ;
+}
+
+/* box 9 start */
+
+.box9{
+    height: 300px;
+    width: 30%;
+    background-color:bisque;
+}
+
+.icon3{
+    height: 50px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.paragraph10{
+padding: 10px 20px;
+text-align: left;
+color: rgba(0, 0, 0, 0.678);
+}
+
+.heading6{
+    padding:10px 20px ;
+}
+/* box 9 end */
+
+
+.main_container1{
+    display: flex;
+    padding:80px 20px;
+    justify-content: space-between;
+}
+
+/* box 10 start */
+.box10{
+    height: 400px;
+    width: 46%;
+
+}
+
+/* box 10 end */
+
+.heading7{
+    padding: 20px;
+}
+
+.paragraph11{
+    padding:0px 20px;
+    color: rgba(0, 0, 0, 0.678);
+}
+
+.button2{
+    text-align: center;
+    margin:30px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 5px;
+    background-color: rgba(255, 98, 0, 0.848);
+    color: #eee;
+}
+
+/* box 10 start */
+
+.box11{
+    height: 400px;
+    width: 47%;
+    background-image: url(bg2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+
+/* box 10 end */
+
+
+
+
+
+.main_container2{
+    display: flex;
+    padding:0px 20px;
+    padding-bottom: 50px;
+    justify-content: space-between;
+}
+
+/* box 12 start */
+.box12{
+    height: 400px;
+    width: 47%;
+    background-image: url(bg3.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+/* box 12 end */
+
+
+.heading8{
+    padding: 20px;
+}
+
+.paragraph12{
+    padding:0px 20px;
+    color: rgba(0, 0, 0, 0.678);
+}
+
+.button3{
+    text-align: center;
+    margin:30px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 5px;
+    background-color: rgba(255, 98, 0, 0.848);
+    color: #eee;
+}
+
+/* box 13 start */
+.box13{
+    height: 400px;
+    width: 46%;
+}
+/* box 13 end */
+
+
+.heading9{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.paragraph13{
+    text-align: center;
+    padding: 20px;
+    color: rgba(0, 0, 0, 0.678);
+
+}
+
+
+.box14{
+    position:relative;
+    height: 120px;
+    width: 45%;
+    background-color: antiquewhite;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+
+.box15{
+    height: 31px;
+    width: 50%;
+    /* background-color:rgb(255, 68, 0); */
+    position: absolute;
+    left: 25%;
+    bottom:45px;
+
+}
+
+
+.email_box{
+    background-color: #eee;
+    height: 27px;
+    padding-left:10px;
+    border-radius: 5px 0px 0px 5px;
+
+}
+
+.button4{
+    height:30px;
+    color: #eee;
+    background-color: rgb(255, 55, 0);
+    border-radius: 0px 5px 5px 0px;
+}
+
+
+.footer{
+    background-color: black;
+    height: 100px;
+    margin-top: 50px;
+}
+
+.heading10{
+    text-align: center;
+    color: hsla(8, 95%, 45%, 0.834);
+    padding-top:20px;
+}
+
+
+.paragraph14{
+    text-align: center;
+    color: #eeeeee94;
+    padding-top:10px ;
+
+}
